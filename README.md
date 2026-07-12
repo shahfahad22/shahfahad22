@@ -73,15 +73,6 @@ A full-stack image sharing application deployed on Vercel.
 
 </div>
 
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shahfahad22&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-<br>
 
 ## 📫 Let's Connect
 
