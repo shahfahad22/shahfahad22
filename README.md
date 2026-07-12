@@ -2,9 +2,9 @@
 
 # Hi there, I'm Shah Fahad 👋
 
-### Full-Stack Developer (MERN) | AI Application Builder | Final-Year CS Student
+### Full-Stack Developer (MERN Stack) | Final-Year CS Student
 
-I build scalable web applications and AI-powered tools using modern JavaScript/Python technologies. Currently seeking Frontend/Full-Stack internship opportunities.
+I build scalable, responsive web applications using modern JavaScript technologies. Currently seeking Frontend/Full-Stack internship opportunities.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shahfahaddev.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://shahfahaddev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-fahad-4290a0251/)
@@ -20,7 +20,6 @@ I build scalable web applications and AI-powered tools using modern JavaScript/P
 
 - 🎓 Final-year Computer Science student based in **Peshawar, Pakistan**
 - 💻 Full-Stack Developer specializing in the **MERN Stack**
-- 🤖 Building **AI-powered applications** using LLM APIs (Groq, Whisper, Llama 3.3)
 - 🚀 Currently seeking **Frontend / Full-Stack internship** opportunities
 - 🤝 Open to collaborating on open-source & real-world projects
 - ⚡ Fun fact: I love turning ideas into real, working products
@@ -41,7 +40,7 @@ I build scalable web applications and AI-powered tools using modern JavaScript/P
 
 **Backend & Database**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 **Tools & Platforms**
 <br>
@@ -51,13 +50,7 @@ I build scalable web applications and AI-powered tools using modern JavaScript/P
 
 <br>
 
-## 🚀 Featured Projects
-
-### 🎙️ AI-Based Interview Preparation Platform
-A full-stack platform that conducts live, voice-based mock interviews using AI.
-- Built with **React.js**, **FastAPI**, **Supabase**, and **Groq API** (Llama 3.3 70B + Whisper)
-- Uses Browser Web Speech API for real-time voice interaction
-- Final Year Project (FYP)
+## 🚀 Featured Project
 
 ### 🖼️ SnapBoard — Image Posting App
 A full-stack image sharing application deployed on Vercel.
@@ -85,7 +78,7 @@ A full-stack image sharing application deployed on Vercel.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shahfahad22&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shahfahad22&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 <br>
@@ -101,6 +94,6 @@ A full-stack image sharing application deployed on Vercel.
 
 <br>
 
-### 💭 "Building modern web applications with MERN Stack and AI."
+### 💭 "Building modern, scalable web applications with the MERN Stack."
 
 </div>
