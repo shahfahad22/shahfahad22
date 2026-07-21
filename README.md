@@ -22,9 +22,9 @@ Peshawar, Pakistan
 
 <div align="center">
 
-| Role | Focus |
+| Role | Focus | Availability |
 |:---:|:---:|:---:|
-| Full-Stack Developer | MERN Stack | 
+| Full-Stack Developer | MERN Stack | Open to Work |
 
 </div>
 
