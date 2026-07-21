@@ -1,90 +1,88 @@
 <div align="center">
 
-# Hi there, I'm Shah Fahad 👋
+# Shah Fahad
 
-### Full-Stack Developer (MERN Stack) | Final-Year CS Student
+**Full-Stack Developer — MERN Stack**
 
-I build scalable, responsive web applications using modern JavaScript technologies. Currently seeking Frontend/Full-Stack internship opportunities.
+Peshawar, Pakistan
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shahfahaddev.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://shahfahaddev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-fahad-4290a0251/)
-[![Gmail](https://img.shields.io/badge/Email-shahfahadkpk02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahfahadkpk02@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=shahfahad22&label=Profile%20Views&color=0e75b6&style=flat-square)
+<a href="https://shahfahaddev.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/shah-fahad-4290a0251/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shahfahadkpk02@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 <br>
 
-## 🧑‍💻 About Me
-
-- 🎓 Final-year Computer Science student based in **Peshawar, Pakistan**
-- 💻 Full-Stack Developer specializing in the **MERN Stack**
-- 🚀 Currently seeking **Frontend / Full-Stack internship** opportunities
-- 🤝 Open to collaborating on open-source & real-world projects
-- ⚡ Fun fact: I love turning ideas into real, working products
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+</div>
 
 <br>
 
-## 🛠️ Tech Stack
+## About
+
+I'm a full-stack developer specializing in the MERN stack — React, Node.js, Express, and MongoDB — with a focus on building clean, responsive, and scalable web applications. My work spans both frontend and backend, from designing intuitive user interfaces to architecting REST APIs and managing data layers. I care about writing maintainable code, understanding the full lifecycle of a product from development to deployment, and continuously refining my craft through hands-on projects. I'm currently looking for frontend or full-stack internship opportunities where I can contribute to real-world engineering teams and keep growing as a developer.
+
+<br>
+
+## Technology Stack
+
+<table width="100%">
+<tr>
+<td width="140" valign="top"><strong>Languages</strong></td>
+<td><img src="https://skillicons.dev/icons?i=js,html,css" /></td>
+</tr>
+<tr>
+<td width="140" valign="top"><strong>Frontend</strong></td>
+<td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /></td>
+</tr>
+<tr>
+<td width="140" valign="top"><strong>Backend</strong></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /></td>
+</tr>
+<tr>
+<td width="140" valign="top"><strong>Tools</strong></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode" /></td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Analytics
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=js,py,html,css" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahfahad22&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=0e75b6&title_color=0e75b6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfahad22&layout=compact&theme=default&hide_border=true&hide_title=true&text_color=333&title_color=0e75b6" />
 
-**Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
 
-**Backend & Database**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahfahad22&theme=default&hide_border=true&background=FFFFFF&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
 
-**Tools & Platforms**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahfahad22&theme=minimal&hide_border=true&area=true&color=0e75b6&line=0e75b6" />
 
 </div>
 
 <br>
 
-## 🚀 Featured Project
-
-### 🖼️ SnapBoard — Image Posting App
-A full-stack image sharing application deployed on Vercel.
-- Built with **React.js**, **Node.js/Express**, **MongoDB**, and **ImageKit**
-- Implemented REST APIs, authentication, and cloud image storage
-- Solved production deployment challenges (serverless routing, CORS, environment configuration)
-
-> 📌 More projects on my [GitHub profile](https://github.com/shahfahad22) and [Portfolio](https://shahfahaddev.vercel.app)
-
-<br>
-
-## 📊 GitHub Stats
+## Contact
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shahfahad22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfahad22&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahfahad22&theme=tokyonight&hide_border=true"/>
+<a href="https://shahfahaddev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/shahfahad22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shah-fahad-4290a0251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shahfahadkpk02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-fahad-4290a0251/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahfahad22)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahfahaddev.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahfahadkpk02@gmail.com)
-
 <br>
 
-### 💭 "Building modern, scalable web applications with the MERN Stack."
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
+<sub>Shah Fahad — Full-Stack Developer, Peshawar, Pakistan</sub>
 </div>
