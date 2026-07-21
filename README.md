@@ -20,6 +20,16 @@ Peshawar, Pakistan
 
 <br>
 
+<div align="center">
+
+| Role | Focus | Availability |
+|:---:|:---:|:---:|
+| Full-Stack Developer | MERN Stack | Open to Internships |
+
+</div>
+
+<br>
+
 ## About
 
 I'm a full-stack developer specializing in the MERN stack — React, Node.js, Express, and MongoDB — with a focus on building clean, responsive, and scalable web applications. My work spans both frontend and backend, from designing intuitive user interfaces to architecting REST APIs and managing data layers. I care about writing maintainable code, understanding the full lifecycle of a product from development to deployment, and continuously refining my craft through hands-on projects. I'm currently looking for frontend or full-stack internship opportunities where I can contribute to real-world engineering teams and keep growing as a developer.
@@ -30,41 +40,22 @@ I'm a full-stack developer specializing in the MERN stack — React, Node.js, Ex
 
 <table width="100%">
 <tr>
-<td width="140" valign="top"><strong>Languages</strong></td>
-<td><img src="https://skillicons.dev/icons?i=js,html,css" /></td>
+<td width="150" valign="middle"><strong>Languages</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=js,html,css" /></td>
 </tr>
 <tr>
-<td width="140" valign="top"><strong>Frontend</strong></td>
-<td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /></td>
+<td width="150" valign="middle"><strong>Frontend</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /></td>
 </tr>
 <tr>
-<td width="140" valign="top"><strong>Backend</strong></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /></td>
+<td width="150" valign="middle"><strong>Backend</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /></td>
 </tr>
 <tr>
-<td width="140" valign="top"><strong>Tools</strong></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode" /></td>
+<td width="150" valign="middle"><strong>Tools</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode" /></td>
 </tr>
 </table>
-
-<br>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahfahad22&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=0e75b6&title_color=0e75b6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfahad22&layout=compact&theme=default&hide_border=true&hide_title=true&text_color=333&title_color=0e75b6" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahfahad22&theme=default&hide_border=true&background=FFFFFF&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahfahad22&theme=minimal&hide_border=true&area=true&color=0e75b6&line=0e75b6" />
-
-</div>
 
 <br>
 
